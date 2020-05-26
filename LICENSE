@@ -1,3 +1,17 @@
+SPDX: MIT AND BSD-3-Clause
+
+Changes in this repository are under MIT license
+Copyright (c) 2020 Rui Ming Xiong
+
+Changes in KeitaNakamura/tex-conceal.vim are under MIT license
+Copyright (c) 2016 KeitaNakamura
+
+
+This repository contains code from an older version of the following repository:
+https://github.com/wjakob/wjakob.vim
+The current version of the repository is under BSD-3-Clause license
+Copyright (c) 2020, Wenzel Jakob
+
 MIT License
 
 Copyright (c) 2020 Rui Ming Xiong
@@ -21,9 +35,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-This repository contains code from an older version of the following repository:
-https://github.com/wjakob/wjakob.vim
-The current version of the repository is licensed as follows:
 
 BSD 3-Clause License
 
